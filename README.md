@@ -1,6 +1,6 @@
 # Deep Dream Networks 
 
-#### What is this?
+### What is this?
 - A deep learning library that implements the basic building blocks of neural networks
 - Built for being easy to learn from
 - Support for dense, convolutional, maxpooling and softmax layers
@@ -9,7 +9,7 @@
 - Support for activations like sigmoid, tanh and relu
 - Not performant for production since its written ground up in Python
 
-#### How to use
+### How to use
 
 Built to follow same easy to use style as Keras.io:
 
@@ -40,7 +40,7 @@ Epoch: 3: 100%|█████████████████████�
 Epoch: 4: 100%|████████████████████████████████████| 60000.0/60000 [00:24<00:00, 2470.29it/s, loss=0.0038, test_accuracy=97.00%]
 """
 ````
-#### To learn from
+### To learn from
 
 Code is written so you can more easy understand the inner workings of neural networks:
 
