@@ -4,6 +4,7 @@
 - A deep learning library that implements the basic building blocks of neural networks
 - Built for being easy to learn from
 - Support for dense, convolutional, maxpooling and softmax layers
+- Support for build a sequential model of layers of different types
 - Support for mini batches
 - Not performant for production since its written ground up in Python
 
